@@ -1,0 +1,27 @@
+🌟 *Mission Produce - Portal de Capacitación* 🌟
+
+¡Bienvenido/a! Selecciona una opción para continuar:
+
+1️⃣ 🎓 *Capacitación por Área*  
+   - Información detallada por departamento  
+   - Guías paso a paso  
+   - Preguntas frecuentes  
+
+2️⃣ 📚 *Recursos de Bienvenida*  
+   - Manual del colaborador  
+   - Políticas de la empresa  
+   - Directorio de contactos importantes  
+
+3️⃣ 🛠 *Soporte Técnico*  
+   - Generar ticket de soporte  
+   - Consultar estado de ticket  
+   - Problemas con sistemas internos  
+
+4️⃣ 📅 *Calendario de Capacitaciones*  
+   - Próximos entrenamientos  
+   - Inscripciones  
+   - Recordatorios  
+
+0️⃣ 🚪 *Salir*  
+
+ℹ️ Escribe *Menu* en cualquier momento para volver aquí.

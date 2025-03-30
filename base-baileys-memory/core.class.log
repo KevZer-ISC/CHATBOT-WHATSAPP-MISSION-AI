@@ -1,0 +1,121 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51913875802@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CB7B501E85C60CED69',
+    participant: undefined
+  },
+  messageTimestamp: 1743364047,
+  pushName: 'Kevin Garcia',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '51913875802'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_176e8e1a-d134-4629-90c0-e96b1bcca307',
+  keyword: 'key_f495b710-93b6-4947-b5c9-2e6e552f5bf9',
+  answer: '🌟 *¡Bienvenido/a a Mission Produce!* 🌟\n' +
+    '\n' +
+    'Soy tu asistente virtual para:\n' +
+    '• Capacitación y onboarding 🎓\n' +
+    '• Soporte técnico 🛠️\n' +
+    '• Consultas generales 💡\n' +
+    '\n' +
+    '¡Estoy aquí para ayudarte! 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd11fb966dd14edd5ad4c2ac82ed4cc5f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_09e235dc-7e67-4026-937a-a142657c6bcd',
+  keyword: 'ans_176e8e1a-d134-4629-90c0-e96b1bcca307',
+  answer: 'Escribe *Menu* en cualquier momento para ver las opciones disponibles o selecciona una de estas opciones rápidas:',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1db91d7dae0fbed7c0bd138f1312d0c2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fb24cec0-4f24-4acd-8591-0cf7725d0c1e',
+  keyword: 'ans_09e235dc-7e67-4026-937a-a142657c6bcd',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '93ff1f9f8c7378e3eb8513f6db24db97'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51913875802@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0148E974F88ABB77D9A',
+    participant: undefined
+  },
+  messageTimestamp: 1743364063,
+  pushName: 'Kevin Garcia',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '51913875802'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_422ecf35-6bf9-4636-99f2-b118ff608f36',
+  keyword: 'ans_5824df3d-a885-4737-943c-6b79dfa5b58e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1ce76661f77aa182d2fd36a9ed8386c9'
+}
